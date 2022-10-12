@@ -2,7 +2,7 @@
 // se è dispari stampa il numero successivo.
 let n = document.getElementById("text").value;
 let btn = document.getElementById("go");
-btn.addEventListener('click',modulo2,);
+btn.addEventListener('click',modulo2);
 
 function modulo2 (){
     let n = document.getElementById("text").value;
